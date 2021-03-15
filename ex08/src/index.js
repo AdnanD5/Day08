@@ -1,6 +1,5 @@
 // Only change code below this line
 var total = 0;
-
 function funcWithArg(digit){
 return (digit+9)/5;
 }
